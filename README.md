@@ -1,4 +1,4 @@
-# 🌿 Automated Greenhouse Management System (AGMS)
+#  Automated Greenhouse Management System (AGMS)
 
 AGMS is a cloud-native, microservices-based platform designed for modern precision agriculture. The system automates climate control by fetching real-time telemetry from external IoT sensors and applying custom business rules to maintain ideal growing conditions for crops.
 
